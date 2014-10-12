@@ -57,3 +57,4 @@ The name of original task, this will be outputted to the stdout along with the f
 
 [depstat-url]: https://david-dm.org/adamayres/gulp-filelog
 [depstat-image]: https://david-dm.org/adamayres/gulp-filelog.png
+
